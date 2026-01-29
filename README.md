@@ -2,6 +2,8 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) ![Status](https://img.shields.io/badge/status-active-success.svg)
 
+> ⚠️ **重要提示**：参与本项目（使用/贡献/接入）即视为同意遵守 [**优码核心公约**](./03-项目管理文档/优码核心公约.md)。
+
 > **核心逻辑**：「有码就有优惠」—— 社区贡献者洽谈商家 -> 生成专属 ucode -> 商家自愿接入 -> 用户享优惠。
 
 ---
